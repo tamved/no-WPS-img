@@ -138,7 +138,6 @@ src/noWPS.cs                Main source code
 src/noWPS.exe.manifest      Windows manifest, asInvoker
 scripts/build.ps1           Local build script
 docs/TECHNICAL.md           How WPS DISPIMG works internally
-docs/GITHUB_UPLOAD.md       What to upload and how to publish a release
 docs/VIRUSTOTAL.md          Notes about false positives
 docs/screenshots/           README images
 ```
